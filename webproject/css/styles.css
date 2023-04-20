@@ -1,0 +1,14 @@
+.h2 {
+ text-align: center;
+ color: black;
+ font-size:30px;
+ font-weight:bold;
+}
+.active {
+ color: black;
+ font-weight:bold;
+}
+#map { height: 600px;
+	width: 800px;
+	position: relative}
+#active { color: black; }
